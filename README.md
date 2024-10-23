@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of a content-based recommendation system using Python. The goal of this system is to recommend items to users based on item descriptions and user preferences. It utilizes Natural Language Processing (NLP) techniques to analyze and quantify content features.
 
+**Medium article: https://medium.com/@alexia.csmr/recommender-system-49bff7fedcaa**
+
 ## Features
 
 - **Data Loading**: Importing datasets for analysis and processing.
